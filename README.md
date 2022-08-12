@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on bettering my programming abilities
+- 🌱 I’m currently learning the Rust language and Bevy, that statement is probably false because I've forgotten to update it
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with learning how to remain motovated to code
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: there is certinally at lear one spelling mistake in this document
+
 <!--
 **StaleOsmium/StaleOsmium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
